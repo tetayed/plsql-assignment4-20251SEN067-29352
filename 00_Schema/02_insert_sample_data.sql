@@ -50,9 +50,3 @@ INSERT ALL
 SELECT * FROM dual;
 
 COMMIT;
-
-
-SELECT * FROM products;
-select * FROM customers;
-SELECT * FROM orders;
-select * from order_items;
